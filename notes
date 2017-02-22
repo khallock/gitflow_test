@@ -1,0 +1,4 @@
+merge commit
+git merge --no-ff  <branch_name>
+
+git revert abc123  undo the merge
